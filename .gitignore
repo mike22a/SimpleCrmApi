@@ -12,6 +12,7 @@ crm-ui/
 *.user
 *.userosscache
 *.sln.docstates
+src/Crm.Api/appsettings.Development.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
